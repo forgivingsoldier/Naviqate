@@ -17,7 +17,7 @@ conda activate naviqate
 
 ### Step 3: pip install
 ```
-pip install -r requirements.txt
+pip install -r requirements_new.txt
 ```
 
 ### Step 4: Add OpenAI credentials
